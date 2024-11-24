@@ -39,9 +39,9 @@ Welcome to my GitHub portfolio! I'm Nguyễn Nhựt Khánh, a passionate Unity D
 
 ### **Hyper-Casual Games**
 - **Fish Water Ball**: Created minimalist game designs and shaders for a visually appealing and performance-efficient experience.
-  🎥 **Gameplay Video**:  (https://link-to-image.com/fish_water_ball.jpg)
+  🎥 **Gameplay Video**:  (https://drive.google.com/file/d/1QIeifX6S9i0W8g6Ttzlq6BKMhkyOoZM2/view?usp=drive_link)
 - **Fish Route**: Combined "Draw Climber" mechanics with gesture image recognition for innovative gameplay.
-  🎥 **Gameplay Video**:  (https://link-to-image.com/fish_water_ball.jpg)
+  🎥 **Gameplay Video**:  (https://drive.google.com/file/d/1boDE-7amFiLzLx2rEKWGjZaLTQ22_Ufg/view?usp=drive_link)
 - **Fish Hide**: Reskinned and enhanced "Hide n Seek" with intelligent AI bots and immersive FX.
 - **Fish Runner**: Developed an endless runner with dynamic obstacle and cutscene editors.
 - **Rhythm**: Designed a custom song editor for cross-platform musical gameplay.
